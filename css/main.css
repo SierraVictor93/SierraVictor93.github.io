@@ -140,7 +140,7 @@ font-family: 'Verdana';
 .aboutdata p{
     color: whitesmoke;
     font-family: 'verdana';
-    margin-top:400px;
+    margin-top:300px;
     margin-left: 40px;
     margin-right: 40px;
     border: white solid 1px;
@@ -179,7 +179,7 @@ font-family: 'Verdana';
 .experiencedata p{
     color: whitesmoke;
     font-family: 'verdana';
-    margin-top: 400px;
+    margin-top: 300px;
     margin-left: 40px;
     margin-right: 40px;
     border: white solid 1px;
@@ -262,7 +262,7 @@ font-family: 'Verdana';
 
 .contactblurb{
     
-    margin-top: 400px;
+    margin-top: 300px;
     margin-left: 40px;
     margin-right: 40px;
     border: white solid 1px;
@@ -277,7 +277,7 @@ font-family: 'Verdana';
     color: whitesmoke;
     font-family: 'verdana';
     text-align: left;
-    line-height: 3.0;    
+    line-height: 2.0;    
     
 }
 
