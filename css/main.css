@@ -215,7 +215,7 @@ font-family: 'Verdana';
     
 }
 
-.skillblurb{
+.skillsblurb{
     
     margin-top: 400px;
     margin-left: 40px;
@@ -227,7 +227,7 @@ font-family: 'Verdana';
     
 }
 
-.skillblurb p {
+.skillsblurb p {
     color: whitesmoke;
     font-family: 'verdana';
      text-align: left;
