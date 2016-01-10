@@ -140,11 +140,14 @@ font-family: 'Verdana';
 .aboutdata p{
     color: whitesmoke;
     font-family: 'verdana';
-  
     border: white solid 1px;
     background-color: #2E2E2E;
     width: 600px;
     height: 400px;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -200px;
     
        
     
